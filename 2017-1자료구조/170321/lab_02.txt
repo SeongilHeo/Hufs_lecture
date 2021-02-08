@@ -1,0 +1,63 @@
+/*
+ * lab_02.cpp
+ *
+ *  Created on: 2017. 3. 21.
+ *      Author: tjddl
+ */
+#include<iostream>
+using namespace std;
+
+bool isPrime(int n);
+
+int main()
+{
+	int input;//양의 정수
+	int output1, output2, output3;
+
+	cin>>input;//양의 정수 입력
+
+	if((input%2==0)||(input<=5))
+	{
+		cout<<0;
+		return 0;
+	}
+	for(int i = 2; i < input; i++)
+	{
+		if(isPrime(i) == true)
+	    {
+			output1= i;
+	        for(int k = 2; k < input; k++)
+	        {
+	        	if(isPrime(k) == true)
+	            {
+	               output2 = k;
+	               output3 = input - (output1 + output2);
+	               if(output3 == 0)
+	            	   break;
+	               else if(isPrime(output3) == true)
+	               {
+	                  cout << output1 <<" "<< output2 <<" "<< output3 << endl;
+	                  return 0;
+	               }
+	               else if(isPrime(output3) == false)
+	            	   continue;
+	            }
+	         }
+	      }
+		}
+
+	return 0;
+}
+bool isPrime(int n)//소수 판단 함수
+{
+	int i=2;
+
+	while(i<n)//n을 약수로 갖는 수 판단
+	{
+		if((n%i)!=0)//n값이 소수인 경우
+			i++;
+		else//n값이 소수가 아닌경우
+			return 0;//0(false) 출력
+	}
+	return 1;//n값이 소수인 경우 1(ture) 출력
+}

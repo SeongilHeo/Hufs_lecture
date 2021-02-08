@@ -1,0 +1,64 @@
+,0,1,2,3,4
+0,Maneesh Agrawala,Professor,Computer Graphics,Human-Computer Interaction (HCI),
+1,Alex Aiken,Professor,Computer Systems,Programming Systems and Verification,
+2,Peter Bailis,Assistant Professor,Computer Systems,Operating/Distributed Systems,Data Science
+3,Clark Barrett,Associate Professor,Computer Systems,Architecture,Programming Systems and Verification
+4,Serafim Batzoglou,Associate Professor,Artificial Intelligence,Computational Biology,
+5,Gill Bejerano,Associate Professor,Artificial Intelligence,Computational Biology,
+6,Michael Bernstein,Assistant Professor,Human-Computer Interaction (HCI),,
+7,Jeannette Bohg,Assistant Professor,Artificial Intelligence,Robotics,
+8,Dan Boneh,Professor,Computer Security,Theory,
+9,Emma Brunskill,Assistant Professor,Artificial Intelligence,Machine Learning,
+10,Moses Charikar,Professor,Theory,,
+11,Bill Dally,Professor,Computer Systems,Architecture,
+12,David Dill,Professor,Computational Biology,Computer Systems,
+13,Ron Dror,Associate Professor,Artificial Intelligence,Computational Biology,
+14,Zakir Durumeric,Assistant Professor,Computer Systems,Computer Security,
+15,Dawson Engler,Associate Professor,Computer Systems,Programming Systems and Verification,
+16,Stefano Ermon,Assistant Professor,Artificial Intelligence,Machine Learning,
+17,Kayvon Fatahalian,Assistant Professor,Computer Graphics,,
+18,Ron Fedkiw,Professor,Computer Graphics,,
+19,Chelsea Finn,Assistant Professor,Artificial Intelligence,Machine Learning,Robotics
+20,Hector Garcia-Molina,Professor,Computer Systems,Data Science,
+21,Mike Genesereth,Associate Professor,Artificial Intelligence,,
+22,Leonidas Guibas,Professor,Artificial Intelligence,Computer Graphics,
+23,Patrick Hanrahan,Professor,Computer Graphics,Computer Systems,
+24,John Hennessy,Professor,Computer Systems,,
+25,Mark Horowitz,Professor,Computer Systems,Architecture,
+26,Doug James,Professor,Computer Graphics,,
+27,Dan Jurafsky,Professor,Artificial Intelligence,Natural Language Processing,
+28,Sachin Katti,Assistant Professor,Computer Systems,Networking,
+29,Oussama Khatib,Professor,Artificial Intelligence,Robotics,
+30,Christos Kozyrakis,Associate Professor,Computer Systems,Architecture,Operating/Distributed Systems
+31,Anshul Kundaje,Assistant Professor,Computational Biology,,
+32,Monica Lam,Professor,Computer Systems,,
+33,James Landay,Professor,Human-Computer Interaction (HCI),,
+34,Jure Leskovec,Assistant Professor,Machine Learning,Data Science,
+35,Philip Levis,Associate Professor,Computer Systems,Networking,
+36,Fei-Fei Li,Associate Professor,Artificial Intelligence,Computer Vision,Machine Learning
+37,Percy Liang,Assistant Professor,Artificial Intelligence,Machine Learning,Natural Language Processing
+38,Karen Liu,Associate Professor,Robotics,Computer Graphics,
+39,Chris Manning,Professor,Artificial Intelligence,Natural Language Processing,
+40,David Mazières,Professor,Computer Systems,Computer Security,Operating/Distributed Systems
+41,Nick McKeown,Professor,Computer Systems,Networking,
+42,John Mitchell,Professor,Computer Security,,
+43,Subhasish Mitra,Associate Professor,Computer Systems,Architecture,Programming Systems and Verification
+44,Andrew Ng,Associate Professor,Artificial Intelligence,Machine Learning,Robotics
+45,Kunle Olukotun,Professor,Computer Systems,Architecture,Programming Systems and Verification
+46,John Ousterhout,Professor,Computer Systems,Operating/Distributed Systems,
+47,Balaji Prabhakar,Professor,Computer Systems,Networking,
+48,Chris Ré,Assistant Professor,Computer Systems,Data Science,
+49,Omer Reingold,Professor,Theory,,
+50,Mendel Rosenblum,Professor,Computer Systems,Operating/Distributed Systems,
+51,Aviad Rubinstein,Assistant Professor,Theory,,
+52,Dorsa Sadigh,Assistant Professor,Artificial Intelligence,Robotics,
+53,Mehran Sahami,Professor,Education,,
+54,Kenneth Salisbury,Professor,Artificial Intelligence,Robotics,
+55,Silvio Savarese,Assistant Professor,Artificial Intelligence,Computer Vision,Robotics
+56,Yoav Shoham,Professor,Artificial Intelligence,,
+57,Li-Yang Tan,Assistant Professor,Theory,,
+58,Sebastian Thrun,Professor,Artificial Intelligence,Machine Learning,Robotics
+59,Gregory Valiant,Assistant Professor,Theory,,
+60,Jennifer Widom,Professor,Computer Systems,Data Science,
+61,Keith Winstein,Assistant Professor,Computer Systems,Networking,
+62,Mary Wootters,Assistant Professor,Theory,,

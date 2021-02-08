@@ -1,0 +1,5 @@
+Nasir Khan,  Language bld,  01012341234
+Muhammad Nadir,  Art bld,  01056785678
+Aya Tanoda,  Science bld,  01234567899
+Ellie Noh,  Business bld,  01020191007
+Taylor Swift,  Economics bld,  01012345678
